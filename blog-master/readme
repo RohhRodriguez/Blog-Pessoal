@@ -1,0 +1,7 @@
+Comandos para atualizar e rodar projeto:
+
+Dentro do terminal:
+npm install @angular/core (caso esteja desatualizada)
+npm i (dentro da pasta back e front)
+npm start (dentro da pasta back end)
+ng serve -o (dentro da pasta front - para subir no servidor)

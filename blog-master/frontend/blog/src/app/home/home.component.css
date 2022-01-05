@@ -1,0 +1,36 @@
+.parallax{
+  background-image: url('https://images.pexels.com/photos/7671957/pexels-photo-7671957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.skills{
+  color:rgb(96, 97, 99);
+}
+
+p{
+  font-size:larger;
+}
+
+h1{
+  color: gray;
+  font-size:x-large;
+}
+
+h2{
+  color:blueviolet;
+  font-size: xx-large;
+}
+
+h4{
+  color: rgb(211, 102, 162);
+  font-size:x-large;
+}
+
+h5{
+  color: rgb(18, 175, 154);
+  font-size:x-large;
+}

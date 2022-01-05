@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "nome": "Cintia",
+      "mensagem": "Exemplo de comentário 1!",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Joana",
+      "mensagem": "Exemplo de comentário 2!"
+    },
+    {
+      "id": 4,
+      "nome": "Carlos",
+      "mensagem": "Exemplo de comentário 3!"
+    },
+    {
+      "id": 5,
+      "nome": "José",
+      "mensagem": "Exemplo de comentário 4!"
+    },
+    {
+      "nome": "Rônica CS Rodrigues",
+      "mensagem": "Este é um teste do POST",
+      "id": 6
+    },
+    {
+      "nome": "Segundo teste",
+      "mensagem": "Teste Teste Teste",
+      "id": 7
+    },
+    {
+      "nome": "Nova Mensagem",
+      "mensagem": "Teste Novamente",
+      "id": 8
+    },
+    {
+      "nome": "Teste de dependências!",
+      "mensagem": "Esse é um teste de dependências instaladas ok",
+      "id": 9
+    }
+  ]
+}
